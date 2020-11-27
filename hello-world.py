@@ -5,4 +5,5 @@ Created on Thu Nov 26 23:50:28 2020
 @author: thoma
 """
 
-print ("Hello World")
+name = input ('What is your name? ')
+print ("Hello " + name)
